@@ -1,2 +1,2 @@
 # pybonacci
-Funções para cálculo e diferentes formas de exibir a Sequência de Fibonacci.
+Cálculo e exibição da sequência de Fibonacci utilizando Python.
